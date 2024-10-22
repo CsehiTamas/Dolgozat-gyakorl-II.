@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Dolgozat gyakorló II.")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+464718b85d5fb4a3cba0d6a6918da2d42fd2fd17")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd10a0cef938f603469aae7d6360bc6ed121b87d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Dolgozat gyakorló II.")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Dolgozat gyakorló II.")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
