@@ -1,0 +1,6 @@
+@Dolgozat_gyakorló_II__HostAddress = http://localhost:5227
+
+GET {{Dolgozat_gyakorló_II__HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
